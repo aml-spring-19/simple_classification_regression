@@ -1,4 +1,5 @@
-# 
+# Classification and regression
+
 This repository contains two separate projects: 
 
 - Using linear regression on the Ames housing dataset

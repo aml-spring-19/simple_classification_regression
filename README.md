@@ -1,6 +1,9 @@
-# homework-2
-Base Repository for Homework 2
+# 
+This repository contains two separate projects: 
 
-UNI: cl3783
+- Using linear regression on the Ames housing dataset
+- Classifying client churn on the Telco-churn dataset
 
-NOTE TO INSTRUCTOR: I wasn't able to fully run the notebook on time for the submission, as the GridSearchCV took too long to run. So the notebook and pdfs I uploaded and submitted on Gradescope for task1 are incomplete (some plots and results are missing).
+Those projects aim to explore basic regression and classification using Scikit-learn. 
+
+Author: Corentin Llorca
